@@ -1,0 +1,16 @@
+[
+  {
+    "messageID": "4884394637",
+    "messageHash": "48:2:IMTOO",
+    "sender": "+27987654321",
+    "recipient": "+27123456789",
+    "message": "im fine i hope you are good too"
+  },
+  {
+    "messageID": "7681554570",
+    "messageHash": "76:1:HEYYOU",
+    "sender": "+27987654321",
+    "recipient": "+27123456789",
+    "message": "hey how are you"
+  }
+]
